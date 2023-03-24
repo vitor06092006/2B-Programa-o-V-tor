@@ -20,5 +20,12 @@
     display:inline-block;
     margin:0 16px;
     font-size: 28px;
-    font-family:initial;
+}
+
+body {
+    font-family: 'Great Vibes';
+}
+
+.Animais{
+    font-size: 35px;
 }
