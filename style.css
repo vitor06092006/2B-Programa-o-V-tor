@@ -33,6 +33,7 @@ body {
 .Animais {
     background-image: linear-gradient(#07a590,#09685b);
     color:black
+    display: flex;
 }
 
 .Animais-imagem{
