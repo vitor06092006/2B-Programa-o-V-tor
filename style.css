@@ -34,6 +34,9 @@ body {
     background-image: linear-gradient(#07a590,#09685b);
     color:black;
     display: flex;
+    justify-content: center;
+    align-items:center;
+    padding: 24px 0;
 }
 
 .Animais-imagem{
